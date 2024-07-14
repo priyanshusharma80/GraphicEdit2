@@ -6,9 +6,9 @@ import { TooltipProvider } from "@/components/ui/tooltip";
 import Room from "./Room";
 
 export const metadata = {
-  title: "Figma Clone",
+  title: "GraphicEdit",
   description:
-    "A minimalist Figma clone using fabric.js and Liveblocks for realtime collaboration",
+    "A Real Time Design Collaboration tool using Next.Js, Fabric.js and liveblocks for real time collaboratio",
 };
 
 const workSans = Work_Sans({
