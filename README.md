@@ -26,7 +26,7 @@ A minimalistic Real time designing collaboration tools with real-world features 
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
-- Next.js
+- React.js
 - TypeScript
 - Liveblocks
 - Fabric.js
